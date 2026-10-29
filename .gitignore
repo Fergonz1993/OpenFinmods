@@ -1,0 +1,33 @@
+# Credentials and local environment
+.env
+.env.*
+**/.env
+**/.env.*
+*.key
+*.pem
+
+# Local agent instructions and session state
+CLAUDE.local.md
+AGENTS.local.md
+.claude/
+.codex/
+.agents/
+.omo/
+.remember/
+
+# Caches, temporary files, and logs
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+node_modules/
+.venv/
+venv/
+*.log
+logs/
+*.tmp
+*.temp
+~$*.xlsx

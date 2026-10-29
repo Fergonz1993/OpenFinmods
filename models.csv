@@ -1,0 +1,49 @@
+company,country,model,sheets,check_cell,check_result,export_date,sha256
+adidas AG,germany,companies/germany/adidas/adidas.xlsx,21,Checks!F5,PASS,2026-10-29,553dabf4fbee09cd65057aef7119826614aee32ce3c53323411e638a61bdbc56
+"Amazon.com, Inc.",united-states,companies/united-states/amazon/amazon.xlsx,18,Checks!B5,OK,2026-10-29,965e73116c7006900ed6fc1fbf862c4f3d1cf167adde535f7a857e4d4cde4702
+"Anthropic, PBC",united-states,companies/united-states/anthropic/anthropic.xlsx,23,Checks!C4,OK,2026-10-29,540535149788551de055783f3acf717a15014b9936ddcfdd3eebb7831d7cca89
+Apple Inc.,united-states,companies/united-states/apple/apple.xlsx,26,Checks!B5,OK,2026-10-29,aa91ff66abc2b589e348804564392ffc927ddb39320b71c3d09cde3fe0399540
+ASML Holding N.V.,netherlands,companies/netherlands/asml/asml.xlsx,20,Checks!F5,PASS,2026-10-29,a4c6705eb085954525bd94074f1789ca5cbc54b6360591c9cb93a38568fa70e3
+"Grupo ASSA, S.A.",panama,companies/panama/assa/assa.xlsx,18,_CHECKS!C4,PASS,2026-10-29,3344768a2eff9ef642dabf1db99da6ad848a8c17cccab437cf75869c0d9ee0ed
+"Banco Aliado, S.A. y Subsidiarias",panama,companies/panama/banco-aliado/banco-aliado.xlsx,15,_CHECKS!C4,PASS,2026-10-29,3ce0b05915e0a2d61d2cc7c3e6c4a6a72bcdee5276c35b40540e2a97aa69c6f6
+Banco de Bogotá S.A.,colombia,companies/colombia/banco-de-bogota/banco-de-bogota.xlsx,17,,Not available,2026-10-29,d0ab1f713954a7779f8d781e9149e27dd791a1bdc4d9feb5f1dee4cef0a5eabe
+Banco de Occidente S.A.,colombia,companies/colombia/banco-de-occidente/banco-de-occidente.xlsx,22,Checks!B5,PASS,2026-10-29,44e8e5874518d9d254f82f259902e2700bb9b8608b871c3ddbaeb6a1ee121e19
+"Banco Delta, S.A. (BANDELTA)",panama,companies/panama/banco-delta/banco-delta.xlsx,5,,Not available,2026-10-29,5ef2cd228dcba2c3873d2852d3f01de4cf7b0cb74d2cc50c5ef84f40e182ad83
+"Banco General, S.A. y Subsidiarias",panama,companies/panama/banco-general/banco-general.xlsx,15,_CHECKS!C4,PASS,2026-10-29,5eb58590c7b720931dc4ab9e47a9a07db4f81d5a5b435d8564fac7a6f8f5793c
+"Banco La Hipotecaria, S.A.",panama,companies/panama/banco-la-hipotecaria/banco-la-hipotecaria.xlsx,15,_CHECKS!C4,PASS,2026-10-29,61896e1d660569c7ad32380aaea51dddd6a6c16a26d76ff064266f51cde840f0
+Bancolombia S.A.,colombia,companies/colombia/bancolombia/bancolombia.xlsx,20,Checks!F5,PASS,2026-10-29,ca72e9d6660e1db86aa5ac705d1378dedd3894de9d4b841d392af489ba0a0512
+Berkshire Hathaway Inc.,united-states,companies/united-states/berkshire-hathaway/berkshire-hathaway.xlsx,12,Checks!F5,PASS,2026-10-29,f53af20f140432077d5371a384a39717c93d3a98a95ab45aeb9a92ffb38b82d3
+Grupo CALESA,panama,companies/panama/calesa/calesa.xlsx,19,_CHECKS!C4,PASS,2026-10-29,4109911ddbf798e0bb00848bb61e0a5055ff982988ba04b131f440638ceb335a
+"Cargill, Incorporated",united-states,companies/united-states/cargill/cargill.xlsx,15,Checks!F6,PASS,2026-10-29,8fcd3a11b21c00764ba2986767bf3606193e669ff21756b9c31e72b1a8c4cb75
+Cerebras Systems Inc.,united-states,companies/united-states/cerebras/cerebras.xlsx,25,Checks!C4,OK,2026-10-29,3f0b74c13aafa5c4b9db2db28e015ae5445cc5d0afbe3a99b67d07363773c590
+The Coca-Cola Company,united-states,companies/united-states/coca-cola/coca-cola.xlsx,20,Checks!B5,OK,2026-10-29,8d25a5f679eb3502d1721a0b295803f01d6990ce61156d528851f3f4e5a23135
+"Empresa de Distribución Eléctrica Metro-Oeste, S.A.",panama,companies/panama/edemet/edemet.xlsx,12,_CHECKS!C4,PASS,2026-10-29,430f12a96ad1bb288a0f4f3e10807a91d6e52557e2aca262e4a385b2f8acb2a9
+"Electron Investment, S.A. (EISA)",panama,companies/panama/eisa/eisa.xlsx,17,_CHECKS!C4,PASS,2026-10-29,95a3ea9532a963b300d1e7fabfb77041aae5d58734688c795cda6e8dbf978cd6
+"Empresa General de Inversiones, S.A.",panama,companies/panama/empresa-general-de-inversiones/empresa-general-de-inversiones.xlsx,6,_CHECKS!C4,PASS,2026-10-29,d44c08349a67c260de864afbc63a25361848c192f56427ca5c8f9f686217c870
+"Empresas Melo, S.A.",panama,companies/panama/empresas-melo/empresas-melo.xlsx,9,_CHECKS!C4,PASS,2026-10-29,7b951ef894d843f2a1df8f8c1278bc6b3fd13369ddf035f984a082886f8540fb
+"Elektra Noreste, S.A. (ENSA)",panama,companies/panama/ensa/ensa.xlsx,9,_CHECKS!C4,PASS,2026-10-29,3a3b1a4d52e52d33702dad5c9fac30ab7882472760cf0f9a8a09606174e3bf6f
+Empresas Públicas de Medellín,colombia,companies/colombia/epm/epm.xlsx,18,Checks!B5,PASS,2026-10-29,28d4668b737239aaf9da52b74028ffb1064c5f0e6b679c55c6fd4ed349a72c67
+"Empresa de Transmisión Eléctrica, S.A. (ETESA)",panama,companies/panama/etesa/etesa.xlsx,1,,Not available,2026-10-29,c526fbdf19378c7da17626117ca30d24d485a054fd182fddd2f5de9dcb152c6c
+"Generadora de Gatún, S.A.",panama,companies/panama/gana-gatun/gana-gatun.xlsx,8,_CHECKS!C4,PASS,2026-10-29,eb0c8ed54a234b2d92951662350983218f76e903282f92f8caaa8d10dc758d71
+G.B. Group Corporation y Subsidiarias,panama,companies/panama/gb-group-corporation/gb-group-corporation.xlsx,1,,Not available,2026-10-29,17472f3e6e8b8bfcbb3af77205b8f3a473daa7c1d7bed0143e0f666dccfbc457
+Global Bank Corporation (GLOBAN),panama,companies/panama/global-bank/global-bank.xlsx,15,_CHECKS!C4,PASS,2026-10-29,5d55764b6c6984eca84581cb9bc1633a643f7712ad522b5cb0bb28bed51fcf9a
+"Grupo Aliado, S.A.",panama,companies/panama/grupo-aliado/grupo-aliado.xlsx,15,_CHECKS!C4,PASS,2026-10-29,584f818f64821cbce44e61a1631c561c489ae77ec5b8f7cf2cb4825dc63b4aa6
+Grupo Aval Acciones y Valores S.A.,colombia,companies/colombia/grupo-aval/grupo-aval.xlsx,13,Checks!F5,PASS,2026-10-29,200e18cb1663385ad26a4e9cd7e65d00c43cb27d379de620b1009adbe8d8eef2
+"Grupo Melo, S.A.",panama,companies/panama/grupo-melo/grupo-melo.xlsx,9,_CHECKS!C4,PASS,2026-10-29,a0aa8413732201b953128e58c052472553ce561c393d2bd1cb97be55e0dd24b2
+Grupo de Inversiones Suramericana S.A.,colombia,companies/colombia/grupo-sura/grupo-sura.xlsx,23,Checks!B5,PASS,2026-10-29,4199d9bff5966ed61e7c82c4c2980227f25ed75af21a63a18b797749480d7979
+Liberty Latin America Ltd.,united-states,companies/united-states/liberty-latin-america/liberty-latin-america.xlsx,12,Checks!B4,PASS,2026-10-29,6102d033d05192cf9b4bbf3a2a3b51c478bf92cb64e1ca539b53eebeb7a928fa
+"Meta Platforms, Inc.",united-states,companies/united-states/meta/meta.xlsx,24,Checks!C4,OK,2026-10-29,63e1c158fdb1a0c361400074d24f1fec76c5adba5bc91aa7ce56471548001508
+"NextEra Energy, Inc.",united-states,companies/united-states/nextera/nextera.xlsx,12,Checks!B4,PASS,2026-10-29,ce96823ed8b3bb3510906448a01e6c2ea3b899fc75fe61f7e079b38ca0d7ae3f
+"NIKE, Inc.",united-states,companies/united-states/nike/nike.xlsx,12,Checks!B5,OK,2026-10-29,b3bc827f22115c2f75890d08b629728dc3f6ccbee7cfc8c18beb39d1ce42c82b
+NVIDIA Corporation,united-states,companies/united-states/nvidia/nvidia.xlsx,12,Checks!F5,PASS,2026-10-29,a4209ca3885b854cb902be370dc1748a4ab3b627539db56bc0fcac0e73fdcab8
+"Corporación de Finanzas del País, S.A. y Subsidiarias",panama,companies/panama/panacredit/panacredit.xlsx,9,_CHECKS!C4,PASS,2026-10-29,03b979a09d2d8ee328e23faa70000ae99f7eb9c29df4fd20c762822080ee7971
+"Petróleos Delta, S.A. y Subsidiaria",panama,companies/panama/petroleos-delta/petroleos-delta.xlsx,9,_CHECKS!C4,PASS,2026-10-29,f960795f4cff45f638adbdecac6ddfc1849e874ab0fc21930e97fcbe2a4389dd
+"Panama Power Holdings, Inc.",panama,companies/panama/pph/pph.xlsx,12,_CHECKS!C4,PASS,2026-10-29,faec4c3bdb1a9df54bd3e433af536cdf24c940e4ed2e684d84221a5710ff52a0
+"Samsung Electronics Co., Ltd.",south-korea,companies/south-korea/samsung/samsung.xlsx,19,Checks!B5,PASS,2026-10-29,a7bf26df3b5ce0a908c83b4b263aa81eedb6902654b576d1b3935de23b8a4c1a
+SK hynix Inc.,south-korea,companies/south-korea/sk-hynix/sk-hynix.xlsx,20,Checks!B5,PASS,2026-10-29,d5271ef2d2411505cdddd86440c702bd16b9e26ebc98f5a1e2f3118b422e6549
+"Space Exploration Technologies Corp. (SpaceX, con xAI, X y Cursor)",united-states,companies/united-states/spacex/spacex.xlsx,24,Checks!C4,OK,2026-10-29,3e8dacc6342887b91756baa78d5ac70310b1bf0ed9db535e6f2ace3e5a97c2ef
+"T-Mobile US, Inc.",united-states,companies/united-states/t-mobile/t-mobile.xlsx,20,Checks!B4,PASS,2026-10-29,4e402d13d9481523a59fa7e030736a78fe35f90259922c1aa660c34ab718ef80
+Tigo Panamá / Grupo de Comunicaciones Digitales,panama,companies/panama/tigo/tigo.xlsx,9,_CHECKS!C4,PASS,2026-10-29,6b96dd54c0e860ccb3eecdbb8b8e65467130b33769c5676a38763791adb25285
+Taiwan Semiconductor Manufacturing Company,taiwan,companies/taiwan/tsmc/tsmc.xlsx,21,Checks!F5,PASS,2026-10-29,e6926e62b60e1412b94c6efee031f0d99a3c2b0075ddb7e2a416dc6c48272121
+"Tyson Foods, Inc.",united-states,companies/united-states/tyson/tyson.xlsx,17,Checks!B3,OK,2026-10-29,6188b0aed66f7563098ce75fcbdeaa54bf60871291e6edbe9e1c6c4fc70ecd45
+"UEP Penonomé II, S.A.",panama,companies/panama/uepii-penonome/uepii-penonome.xlsx,10,_CHECKS!C4,PASS,2026-10-29,f3b1e898d49be294c29ea644b3879c91db503f83d66f1d58928edd46a8fc2dcc
